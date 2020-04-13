@@ -182,7 +182,9 @@ hr {
   height: 100px;
   margin-bottom: 50px;
 }
-
+#pro1{
+height: 800px;
+}
 #pro {
   background-color: #effffb;
 }
@@ -200,13 +202,13 @@ hr {
   /* background-color: green; */
 }
 .carousel-item img {
-  height: 500px;
+  height: 700px;
   filter: blur(8px);
   -webkit-filter: blur(4px);
 }
 
 .carousel-item img:hover {
-  height: 500px;
+  height: 700px;
   filter: blur(0px);
   -webkit-filter: blur(0px);
 }
